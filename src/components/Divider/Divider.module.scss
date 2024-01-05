@@ -1,0 +1,20 @@
+.dashed_divider {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.divider_line {
+  display: inline-block;
+  border-top: 1px dashed #a8a8a8;
+  flex: 1;
+  color: #a8a8a8;
+}
+
+.date {
+  display: inline-block;
+  background-color: white;
+  padding: 0 10px;
+  color: #a8a8a8;
+}
