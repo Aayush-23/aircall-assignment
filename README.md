@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 Double click on a call to archive or unarchive it. At the time I created this assignment, API calls were failing.
 
+I have used React JS and SCSS ot create this application. Some of the icons I have used from Material UI icons.
+
 I could have followed some best practices, due to time constrainsts I have ignored some.
 
 I would have created a proper theme, Also colors could have been defined at a single place as a variable.
